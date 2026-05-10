@@ -243,4 +243,4 @@ Traveloop aims to simplify travel planning through a unified platform where user
 
 # 📄 License
 
-Th
+This project is developed for educational and hackathon purposes.
